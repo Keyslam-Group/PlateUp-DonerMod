@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2888448010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71d94af42772b5b63f2083cea3b15f0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a79668f7f7d3ca9c601cefa2ee4d4e0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Doner.prefab
+- Assets/AssetBundle/Tray.json
+- Assets/AssetBundle/CookedDoner.json
+- Assets/AssetBundle/DisposableTray.prefab
+- Assets/AssetBundle/Cooked Tomato Spinach Omelette.prefab
+- Assets/AssetBundle/DonerSlices.prefab
+Dependencies: []
